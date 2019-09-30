@@ -2,16 +2,14 @@
 
 ## Project 1 - Predicting Customer Preferences
 - ### Data sets
-      10,000 completed surveys
-      5,000 incompleted surveys
-      Survey information consist of: Salary, Age, Education Level, Car, Zipcode, Credit, Brand Preference
-      80 existing products 
-      24 new products
-      Product information consist of: Price, Star Reviews, Customer Reviews, Product Dimension, Margin, Profit 
+      1. 10,000 completed surveys
+         5,000 incompleted surveys
+         Survey information consist of: Salary, Age, Education Level, Car, Zipcode, Credit, Brand Preference
+      2. 80 existing products 
+         24 new products
+         Product information consist of: Price, Star Reviews, Customer Reviews, Product Dimension, Margin, Profit 
 - ### Tasks
-      Predict the customers' brand preferences that are missing from the incomplete surveys.
+      1. Predict the customers' brand preferences that are missing from the incomplete surveys.
+[Brand Preference (Classification) by R](https://github.com/snowlee26/Portfolio-/blob/master/Brand%20Preference(Classification).R)
       
-      [GitHub Pages](https://pages.github.com/)
-      
-      Predict the sales in four different product types while assessing the effects service and customer reviews have on sales.
-
+      2. Predict the sales in four different product types while assessing the effects service and customer reviews have on sales.

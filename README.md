@@ -16,4 +16,4 @@
 [New Products Sales Prediction (Multiple Regression) by R](https://github.com/snowlee26/Portfolio-/blob/master/New%20Products%20Sales%20Prediction(Multiple%20Regression).R)
 
       3. Help the board of directors to better understand the clientele that the company they intend to acquire is currently serving and if it would be an optimal acquisition.  
-[
+[Product Recommendation (Market Basket Analysis)](https://github.com/snowlee26/Portfolio-/blob/master/Products%20Rcommendations(Market%20Basket%20Analysis).R)

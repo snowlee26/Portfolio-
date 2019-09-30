@@ -10,6 +10,8 @@
       Product information consist of: Price, Star Reviews, Customer Reviews, Product Dimension, Margin, Profit 
 - ### Tasks
       Predict the customers' brand preferences that are missing from the incomplete surveys.
-      [GitHub](http://github.com)
+      
+      [GitHub Pages](https://pages.github.com/)
       
       Predict the sales in four different product types while assessing the effects service and customer reviews have on sales.
+

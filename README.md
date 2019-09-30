@@ -14,3 +14,6 @@
       
       2. Predict the sales in four different product types while assessing the effects service and customer reviews have on sales.
 [New Products Sales Prediction (Multiple Regression) by R](https://github.com/snowlee26/Portfolio-/blob/master/New%20Products%20Sales%20Prediction(Multiple%20Regression).R)
+
+      3. Help the board of directors to better understand the clientele that the company they intend to acquire is currently serving and if it would be an optimal acquisition.  
+[

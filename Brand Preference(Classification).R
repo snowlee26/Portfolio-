@@ -19,7 +19,7 @@ testing <- complete[-inTraining,]
 #10 fold cross validation
 fitControl <- trainControl(method = "cv", number = 10)
 
-#train Random Forest Regression model with a tuneLenght = 1 (trains with 1 mtry value for RandomForest)
+#train C5.0 Regression model with a tuneLenght = 1 (trains with 1 mtry value for C5.0)
 C50Fit1 <- train(brand~., data = training, method = "C5.0", trControl=fitControl, tuneLength = 1)
                 
 

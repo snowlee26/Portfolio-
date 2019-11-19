@@ -1,6 +1,6 @@
 # Data Science Portfolio
 * This repository contains the portfolio of my data science projects, including Classfication, Multiple Regression, Unsupervised Learning, Time Series, Sentiment Analysis and AWS process. 
-* Projects are presented by Jupyter Notebook form using Python and R. 
+* Projects are presented by Jupyter Notebook using Python and R Markdown. 
 
 ## Projects Contents
 ### R

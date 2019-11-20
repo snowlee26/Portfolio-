@@ -4,7 +4,7 @@
 
 ## Projects Contents
 ### R
-* Classification: Predict which Brand of Products Customers Prefer
+* [Customer Brand Preference (Classification)](http://rpubs.com/snowlee26/551894)
 * Multiple Regression: Profitability Predictions 
 * Unsupervised Learning: Market Basket Analysis, Discover Associations Between Products
 * Time Series: Analysis of the Energy Consumption
@@ -14,8 +14,6 @@
 ### Python
 * Classification: Default of Credit Card Clients
 
-
-[Brand Preference (Classification) in R](https://github.com/snowlee26/Portfolio-/blob/master/Brand%20Preference(Classification).R)
 
 [New Products Sales Prediction (Multiple Regression) in R](https://github.com/snowlee26/Portfolio-/blob/master/New%20Products%20Sales%20Prediction(Multiple%20Regression).R)
 

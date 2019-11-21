@@ -5,6 +5,7 @@
 ## Projects Contents
 ### R
 * [Power Consumption Visualization and Analysis(Time Series)](http://rpubs.com/snowlee26/552044)
+* [Power Consumption Forecasting(Time Series)](http://rpubs.com/snowlee26/552314)
 * [Customer Brand Preference (Classification)](http://rpubs.com/snowlee26/551894)
 * Multiple Regression: Profitability Predictions 
 * Unsupervised Learning: Market Basket Analysis, Discover Associations Between Products

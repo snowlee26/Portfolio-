@@ -3,6 +3,10 @@
 * Projects are presented by Jupyter Notebook and RPubs. 
 
 ## Projects Contents
+
+### Python
+* [Customer Default Rate Exploratory Analysis](https://github.com/snowlee26/Portfolio-/blob/master/Formal%20EDA%20.ipynb)
+
 ### R
 * [Power Consumption Visualization and Analysis(Time Series)](http://rpubs.com/snowlee26/552044)
 * [Power Consumption Forecasting(Time Series)](http://rpubs.com/snowlee26/552314)
@@ -12,8 +16,7 @@
 * Classification: Indoor WiFi Locationing
 * Classification: AWS Process and Smartphone Sentiment Analysis
 
-### Python
-* Classification: Default of Credit Card Clients
+
 
 
 

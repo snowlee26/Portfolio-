@@ -1,11 +1,12 @@
 # Data Science Portfolio
-* This repository contains the portfolio of my data science projects, including Classfication, Multiple Regression, Unsupervised Learning, Time Series, Sentiment Analysis and AWS process. 
+* This repository contains the portfolio of my data science projects, including Classification, Multiple Regression, Unsupervised Learning, Time Series, Sentiment Analysis and AWS process. 
 * Projects are presented by Jupyter Notebook and RPubs. 
 
 ## Projects Contents
 
 ### Python
 * [Customer Default Rate Exploratory Analysis](https://github.com/snowlee26/Portfolio-/blob/master/Formal%20EDA%20.ipynb)
+* [Customer Default Prediction Model(Classification)](https://github.com/snowlee26/Portfolio-/blob/master/Credit%20One%20Classification.ipynb)
 
 ### R
 * [Power Consumption Visualization and Analysis(Time Series)](http://rpubs.com/snowlee26/552044)

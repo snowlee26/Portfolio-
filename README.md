@@ -18,6 +18,7 @@
 * [Wi-Fi Indoor Locationing](http://rpubs.com/snowlee26/553641)
 * [Power Consumption Visualization and Analysis(Time Series)](http://rpubs.com/snowlee26/552044)
 * [Power Consumption Forecasting(Time Series)](http://rpubs.com/snowlee26/552314)
+* [Smart Phone Sentiment Analysis(AWS and EMR)](https://github.com/snowlee26/Portfolio-/blob/master/AWSandEMR.ipynb) Collecting data from Amazon Web Service using Elastic Map Reducer for sentiment analysis. 
 * [Customer Brand Preference (Classification)](http://rpubs.com/snowlee26/551894)
 * Multiple Regression: Profitability Predictions 
 * Unsupervised Learning: Market Basket Analysis, Discover Associations Between Products

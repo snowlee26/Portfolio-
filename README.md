@@ -21,7 +21,6 @@
 * [Customer Brand Preference (Classification)](http://rpubs.com/snowlee26/551894)
 * Multiple Regression: Profitability Predictions 
 * Unsupervised Learning: Market Basket Analysis, Discover Associations Between Products
-* Classification: Indoor WiFi Locationing
 * Classification: AWS Process and Smartphone Sentiment Analysis
 
 

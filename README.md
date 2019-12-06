@@ -21,7 +21,7 @@
 * [Smart Phone Sentiment Analysis](https://github.com/snowlee26/Portfolio-/blob/master/AWSandEMR.ipynb) AWS and EMR,, collecting data from Amazon Web Service using Elastic Map Reducer for sentiment analysis. 
 * [Smart Phone Sentiment Analysis and Prediction](http://rpubs.com/snowlee26/554337) Classification, identify one optimized model to predict the overall sentiment toward iPhones and one optimized model to predict overall sentiment toward Samsung Galaxy handsets.
 * [Customer Brand Preference](http://rpubs.com/snowlee26/551894) Classification, predict which brand of desktop customers prefer more.
-* Unsupervised Learning: Market Basket Analysis, Discover Associations Between Products
+* [Discover Associations Between Products For Electronic Company](http://rpubs.com/snowlee26/557249) Unsupervised Learning, perform a market basket analysis to help the company’s board of directors to better understand the clientele of an electronic online retailer to see if it would be an optimal acquisition.
 
 
 

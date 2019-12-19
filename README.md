@@ -12,7 +12,8 @@
 ### Python
 * [Product Profitability Prediction](https://github.com/snowlee26/Portfolio-/blob/master/ProductProfitability.ipynb) Regression, predict profitability for new products for an electronic company and analyze the importance of customer reviews. 
 * [Customer Default Rate Exploratory Analysis](https://github.com/snowlee26/Portfolio-/blob/master/Formal%20EDA%20.ipynb) Exploratory Analysis of factors effect the credit default rates.
-* [Customer Default Prediction Model](https://github.com/snowlee26/Portfolio-/blob/master/Credit%20One%20Classification.ipynb) Classification, build machine learning models to predict if a customer will be default for the next month payment.
+* [Customer Default Prediction Model] Classification, build machine learning models to predict if a customer will be default for the next month payment.
+* [Infant Mortality Analysis and Prediction](https://github.com/snowlee26/Portfolio-/blob/master/Birth_Infant%20Mortality.ipynb) Analyze which factors have bigger impact on infant mortality and if there is a possibilty to build a model to predict missing rates values.
 
 ### R
 * [Wi-Fi Indoor Locationing](http://rpubs.com/snowlee26/553641) Classification, determining a person’s physical position in a multi-building indoor space using wifi fingerprinting.

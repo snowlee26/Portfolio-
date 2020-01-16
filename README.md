@@ -4,10 +4,14 @@
 
 ## Projects Contents
 
-### Featured
+### Featured 
 * [Wi-Fi Indoor Locationing](http://rpubs.com/snowlee26/553641) Classification, determining a person’s physical position in a multi-building indoor space using wifi fingerprinting.
 * [Product Profitability Prediction](https://github.com/snowlee26/Portfolio-/blob/master/ProductProfitability.ipynb) Regression, predict profitability for new products for an electronic company and analyze the importance of customer reviews. 
 * [Smart Phone Sentiment Analysis(AWS and EMR)](https://github.com/snowlee26/Portfolio-/blob/master/AWSandEMR.ipynb) AWS and EMR, collecting data from Amazon Web Service using Elastic Map Reducer for sentiment analysis. 
+* [Smart Phone Sentiment Analysis and Prediction](http://rpubs.com/snowlee26/554337) Classification, identify one optimized model to predict the overall sentiment toward iPhones and one optimized model to predict overall sentiment toward Samsung Galaxy handsets.
+
+### Deep Learning Practices
+* [Digits Recognition](https://github.com/snowlee26/Portfolio-/blob/master/Number%20and%20Digits%20Reader%20Model.ipynb) Classic Tensorflow digits recognition practice. Followed the tutorial from [sentdex](https://www.youtube.com/watch?v=wQ8BIBpya2k) with my own understanding and explaination.
  
 ### Python
 * [Product Profitability Prediction](https://github.com/snowlee26/Portfolio-/blob/master/ProductProfitability.ipynb) Regression, predict profitability for new products for an electronic company and analyze the importance of customer reviews. 
@@ -23,6 +27,8 @@
 * [Smart Phone Sentiment Analysis and Prediction](http://rpubs.com/snowlee26/554337) Classification, identify one optimized model to predict the overall sentiment toward iPhones and one optimized model to predict overall sentiment toward Samsung Galaxy handsets.
 * [Customer Brand Preference](http://rpubs.com/snowlee26/551894) Classification, predict which brand of desktop customers prefer more.
 * [Discover Associations Between Products For Electronic Company](http://rpubs.com/snowlee26/557249) Unsupervised Learning, perform a market basket analysis to help the company’s board of directors to better understand the clientele of an electronic online retailer to see if it would be an optimal acquisition.
+
+
 
 
 
